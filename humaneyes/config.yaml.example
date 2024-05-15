@@ -1,0 +1,7 @@
+version: 0.0.1
+ai:
+  evaluation:
+    api_version: ""
+    endpoint: ""
+    key: ""
+    deployment_name: ""
